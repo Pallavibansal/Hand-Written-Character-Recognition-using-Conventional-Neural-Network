@@ -1,2 +1,2 @@
-# Hand-Written-Character-Recognition-using-Conventional-Neural-Network
+# Hand-Written-Digit-Recognition-using-Convolutional-Neural-Network
 Based On Deep Learning 
